@@ -1,0 +1,45 @@
+.font {
+    font-family: Chalkduster, fantasy;
+}
+.color {
+  background-color: lightgreen;
+}
+.kuva {
+  margin-top: 50px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 80px;
+}
+.text {
+  float: left;
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  top: 30%;
+  right: 5%;
+  font-family: Papyrus;
+  overflow: auto;
+ 
+}
+.boxes {
+  height: 24px;
+  width: 34px;
+  top: 5%;
+  right: 23%;
+  position: absolute;
+  border: 1.5px solid black;
+  font-family: Chalkduster, fantasy;
+  
+}
+.boxes2 {
+  height: 24px;
+  width: 60px;
+  top: 8%;
+  right: 20%;
+  position: absolute;
+  font-family: Chalkduster, fantasy; 
+}
+a:hover {
+  color: orange; 
+  
+}
