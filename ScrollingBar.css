@@ -1,0 +1,36 @@
+h2 {
+    position:static; top: 100px;
+    top: 8px;
+    left: 16px;
+    font-family: Papyrus;
+}
+
+
+.text {
+    position: fixed;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    right: 20px;
+    color: blue;
+    font-family: cursive;
+    
+}
+.header {
+  overflow: hidden;
+  height: 100vh;
+  background: url(https://walldorado.com/image/catalog/products/Sverus/wallpaper-mural-nepal-jungle.jpg) 5%/ cover;
+  
+}
+.väri {
+  top: 70%;
+  left: 35%;
+  position: fixed;
+  color: white;
+  font:  1.75vmin/45vh cookie, cursive;
+  filter: drop-shadow(.05em .05em red);
+  mix-blend-mode: difference;
+
+}
+
+
